@@ -25,7 +25,7 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: purple 
+      accent: amber
 
 markdown_extensions:
   - pymdownx.highlight:
